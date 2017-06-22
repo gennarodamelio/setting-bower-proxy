@@ -2,8 +2,10 @@
 setting-bower-proxy
 
 {
+
     "proxy":"http://<user>:<password>@<host>:<port>",
     "https-proxy":"http://<user>:<password>@<host>:<port>"
+
 }
 
 
